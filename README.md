@@ -8,4 +8,4 @@ I'm dual-booting [Atlas](https://github.com/Atlas-OS/Atlas) and [Archlinux](http
 
 I don't plan to make any of my repositories public at this time.
 
-Discord:Lirika#6846
+Discord:Lirika#6846 
